@@ -1,11 +1,10 @@
-import Image from "next/image";
-
-export default function PhotoCard({ src }) {
+export default function PhotoCard({ src, fnSetSelectedPicture }) {
   return (
-    <Image
+    <img
       src={src}
       alt=""
       className="w-full md:w-[325px] lg:w-[450px] object-cover"
+      onClick={(e) => fnSetSelectedPicture(e.target.src, e.target.offsetTop)}
     />
   );
 }

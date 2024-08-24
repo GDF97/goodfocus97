@@ -2,49 +2,59 @@
   [
     {
       "title": "Shoot with: Pentax K1000 + FujiC200",
-      "img_path": "",
-      "tags": ["Film", "Landscape"]
+      "img_path": "https://raw.githubusercontent.com/GDF97/goodfocus97/main/src/assets/pictures/gallery/photo1.jpg",
+      "tags": ["Film", "Landscape", "Nature"]
     },
     {
       "title": "Shoot with: Pentax K1000 + FujiC200",
-      "img_path": "",
-      "tags": ["Film", "People"]
-    }
-  ],
-  [
-    {
-      "title": "Shoot with: Pentax K1000 + FujiC200",
-      "img_path": "",
-      "tags": ["Film", "People"]
-    },
-    {
-      "title": "Shoot with: Pentax K1000 + FujiC200",
-      "img_path": "",
-      "tags": ["Film", "People"]
-    }
-  ],
-  [
-    {
-      "title": "Shoot with: Pentax K1000 + FujiC200",
-      "img_path": "",
-      "tags": ["Film", "Cars"]
-    },
-    {
-      "title": "Shoot with: Pentax K1000 + FujiC200",
-      "img_path": "",
-      "tags": ["Film", "People"]
-    }
-  ],
-  [
-    {
-      "title": "Shoot with: Pentax K1000 + FujiC200",
-      "img_path": "",
+      "img_path": "https://raw.githubusercontent.com/GDF97/goodfocus97/main/src/assets/pictures/gallery/photo5.jpg",
       "tags": ["Film", "Nature"]
     },
     {
       "title": "Shoot with: Pentax K1000 + FujiC200",
-      "img_path": "",
+      "img_path": "https://raw.githubusercontent.com/GDF97/goodfocus97/main/src/assets/pictures/gallery/photo8.jpg",
+      "tags": ["Film", "Portrait"]
+    }
+  ],
+  [
+    {
+      "title": "Shoot with: Pentax K1000 + FujiC200",
+      "img_path": "https://raw.githubusercontent.com/GDF97/goodfocus97/main/src/assets/pictures/gallery/photo2.jpg",
+      "tags": ["Film", "Landscape", "Nature"]
+    },
+    {
+      "title": "Shoot with: Pentax K1000 + FujiC200",
+      "img_path": "https://raw.githubusercontent.com/GDF97/goodfocus97/main/src/assets/pictures/gallery/photo4.jpg",
       "tags": ["Film", "People"]
+    },
+    {
+      "title": "Shoot with: Pentax K1000 + FujiC200",
+      "img_path": "https://raw.githubusercontent.com/GDF97/goodfocus97/main/src/assets/pictures/gallery/photo6.jpg",
+      "tags": ["Film", "Landscape", "Nature"]
+    }
+  ],
+  [
+    {
+      "title": "Shoot with: Pentax K1000 + FujiC200",
+      "img_path": "https://raw.githubusercontent.com/GDF97/goodfocus97/main/src/assets/pictures/gallery/photo9.jpg",
+      "tags": ["Film", "Portrait"]
+    },
+    {
+      "title": "Shoot with: Pentax K1000 + FujiC200",
+      "img_path": "https://raw.githubusercontent.com/GDF97/goodfocus97/main/src/assets/pictures/gallery/photo7.jpg",
+      "tags": ["Film", "Nature"]
+    }
+  ],
+  [
+    {
+      "title": "Shoot with: Pentax K1000 + FujiC200",
+      "img_path": "https://raw.githubusercontent.com/GDF97/goodfocus97/main/src/assets/pictures/gallery/photo3.jpg",
+      "tags": ["Film", "Buildings"]
+    },
+    {
+      "title": "Shoot with: Pentax K1000 + FujiC200",
+      "img_path": "https://raw.githubusercontent.com/GDF97/goodfocus97/main/src/assets/pictures/gallery/photo10.jpg",
+      "tags": ["Film", "Portrait"]
     }
   ]
 ]
